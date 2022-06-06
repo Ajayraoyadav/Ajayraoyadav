@@ -2,7 +2,7 @@
 <!--  portfolio link/  -->
 ### Hey there, I'm  Ajay Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="center">
-  I'm a Full stack web developer ✨ I'm deep into Web 🕸️ Development.
+  I'm a Full stack web developer.👨‍💻I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨ I'm deep into Web 🕸️ Development.
 </p> 
 <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
 
