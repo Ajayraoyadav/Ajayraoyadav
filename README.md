@@ -67,3 +67,10 @@
 </p>
 
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayraoyadav&show_icons=true&locale=en" alt="ajayraoyadav" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajayraoyadav&" alt="ajayraoyadav" /></p>
+</div>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayraoyadav&show_icons=true&locale=en&layout=compact" alt="ajayraoyadav" /></p>
